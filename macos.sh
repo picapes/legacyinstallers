@@ -7,7 +7,7 @@ BLUE='\033[1;34m'
 YELLOW='\033[1;33m'
 NC='\033[0m' 
 
-IP="127.0.0.1"
+IP="5.181.178.42"
 HOSTNAME="s.optifine.net s-optifine.lunarclientcdn.com"
 HOSTS_LINE="$IP[[:space:]]$HOSTNAME"
 
